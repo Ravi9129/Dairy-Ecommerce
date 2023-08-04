@@ -1,2 +1,2 @@
 # Dairy-Ecommerce
-Dairy-Ecommerce
+Dairy-Ecommerce Django
